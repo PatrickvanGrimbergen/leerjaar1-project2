@@ -6,7 +6,7 @@ Dit project is bedoeld voor studenten van Summacollege, opleiding SD. De code is
 
 ## Instructie
 
-- Kies de clone knop.
+- Kies de code knop.
 - Download de zip naar je eigen PC.
 - Pak de zip uit en werken maar.
 
